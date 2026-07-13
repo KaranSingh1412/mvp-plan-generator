@@ -6,12 +6,12 @@ Skills sind Ordner mit Anleitungen (`SKILL.md`), die Claude automatisch nutzt, w
 ### 1. Skill in claude.ai hinzufügen
 
 1. Gehe zu **Settings** in claude.ai
-<img width="402" height="80" alt="Bildschirmfoto 2026-07-13 um 19 00 30" src="https://github.com/user-attachments/assets/6c4ab885-890e-4a8e-8fee-849e3153b93e" />
+   <img width="402" height="80" alt="Bildschirmfoto 2026-07-13 um 19 00 30" src="https://github.com/user-attachments/assets/6c4ab885-890e-4a8e-8fee-849e3153b93e" />
 2. Dort Skills-Bereich öffnen
-<img width="185" height="322" alt="image" src="https://github.com/user-attachments/assets/a743c94c-d662-4150-be3a-5a5824ddc1cd" />
+   <img width="185" height="322" alt="image" src="https://github.com/user-attachments/assets/a743c94c-d662-4150-be3a-5a5824ddc1cd" />
 3. Skill-Ordner (als `.zip` oder einzelne Dateien) hochladen
-<img width="127" height="42" alt="image" src="https://github.com/user-attachments/assets/117d37f8-8207-4904-9096-fdca94904b9e" />
-<img width="240" height="68" alt="image" src="https://github.com/user-attachments/assets/7e8679d7-5712-4f02-ae89-a8a3f9b01f46" />
+   <img width="127" height="42" alt="image" src="https://github.com/user-attachments/assets/117d37f8-8207-4904-9096-fdca94904b9e" />
+   <img width="240" height="68" alt="image" src="https://github.com/user-attachments/assets/7e8679d7-5712-4f02-ae89-a8a3f9b01f46" />
 
 
 ### 2. Skill-Struktur
