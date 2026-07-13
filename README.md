@@ -64,5 +64,5 @@ Claude Code erkennt Änderungen an bestehenden Skills automatisch (ohne Neustart
 Frag Claude einfach nach einer Aufgabe, die zur `description` deines Skills passt. Wenn der Skill nicht triggert, ist meist die Beschreibung zu vage — konkreter formulieren und erneut testen.
 
 ---
-📚 Mehr Details: [Anthropic Agent Skills Docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)![Uploading Bildschirmfoto 2026-07-13 um 19.00.30.png…]()
+📚 Mehr Details: [Anthropic Agent Skills Docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 
